@@ -1,0 +1,19 @@
+# This value needs to be at least 1.0
+interest-rate: 1.5
+
+# Set this to what the currency type should be.
+currency-type: "£"
+
+# The format for /guild chat <message>
+# Placeholders:
+# <guild> - Guild name
+# <guild-rank> - Player's rank in guild
+# <player> - player name
+# <message> - message
+guild-chat-format: "&e&lGUILD &6| &f[&e<guild>&f] &f[&e<guild-rank>&f] &e<player>: &f<message>"
+
+# This is the maximum level points a guild can have
+max-level-points: 10
+
+# Every guild will start at this level
+default-elo-points: 1000

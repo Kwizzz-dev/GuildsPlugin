@@ -1,0 +1,24 @@
+##
+## Read carefully how the configuration works:
+## The plugin will read, 1:5 for example, as
+## Level 2 needs 5 of <type>
+## 2:5 under members means 5 members are required for level 2.
+##
+
+members:
+  - "2:5"
+  - "3:10"
+  - "4:15"
+  - "5:20"
+  - "6:25"
+  - "7:30"
+  - "8:50"
+
+kills:
+  - "2:50"
+  - "3:125"
+  - "4:250"
+  - "5:500"
+  - "6:750"
+  - "7:1000"
+  - "8:2500"

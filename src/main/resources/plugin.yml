@@ -1,0 +1,12 @@
+name: Guilds
+version: ${project.version}
+main: me.straggly.guilds.Guilds
+api-version: 1.16
+authors: [ straggly ]
+commands:
+  guild:
+    usage: /guild
+    aliases:
+      - guilds
+      - g
+    description: Guilds command

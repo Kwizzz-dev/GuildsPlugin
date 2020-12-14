@@ -1,0 +1,13 @@
+quests:
+  kill_guild_50:
+    requirements: "KILL_PLAYERS"
+    value: 50
+    reward: 50000
+  mine_diamond_20:
+    requirements: "MINE_BLOCKS:DIAMOND_ORE"
+    value: 20
+    reward: 50000
+  collect_wheat_10:
+    requirements: "MINE_BLOCKS:DIAMOND_ORE"
+    value: 10
+    reward: 50000
